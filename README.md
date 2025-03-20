@@ -1,10 +1,33 @@
-OverTheWire Bandit Write-Ups
-Welcome to the OverTheWire Bandit Write-Ups repository! This collection provides detailed, step-by-step solutions for all levels of the OverTheWire Bandit wargame. Whether you're a beginner or looking to sharpen your Linux and security skills, these write-ups are designed to help you learn and solve each challenge effectively.
+POC Write-Up Repository
 
-What is OverTheWire Bandit?
-OverTheWire Bandit is a beginner-friendly Capture the Flag (CTF) game that teaches Linux commands, file systems, scripting, and privilege escalation. Each level introduces new concepts and challenges, making it a great resource for learning cybersecurity fundamentals.
+Welcome to the POC Write-Up Repository! This collection features detailed Proof of Concept (POC) write-ups for vulnerabilities, exploits, and security research. Each POC includes step-by-step instructions, code snippets, and explanations to help you understand and replicate the findings.
 
-Repository Contents
-1. Write-Ups: Detailed solutions for all levels (0 to 33), including commands, explanations, and screenshots.
-2. Screenshots: Visual references for key steps to help you verify your progress.
-3. Structured Format: Write-ups are organized into folders for easy navigation.
+---
+
+Contents
+- POC Write-Ups: Detailed explanations and steps for reproducing vulnerabilities and exploits.
+- Code Snippets: Ready-to-use code for testing and experimentation.
+- Structured Format: Organized by vulnerability type or research topic for easy navigation.
+
+How to Use
+1. Browse the repository for the desired POC.
+2. Follow the step-by-step instructions and code snippets.
+3. Experiment and learn from the provided examples.
+
+
+Contribution
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Add your POC write-up in the appropriate folder.
+3. Submit a pull request with a detailed description.
+
+
+License
+This repository is licensed under the MIT License. Feel free to use, modify, and share the content for educational purposes.
+
+Links
+- Repository: [POC Write-Up Repository](https://github.com/your-username/POC-Write-Ups)
+
+---
+
+Happy researching! 🚀
