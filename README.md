@@ -6,5 +6,5 @@ OverTheWire Bandit is a beginner-friendly Capture the Flag (CTF) game that teach
 
 Repository Contents
 1. Write-Ups: Detailed solutions for all levels (0 to 33), including commands, explanations, and screenshots.
-2 Screenshots: Visual references for key steps to help you verify your progress.
+2. Screenshots: Visual references for key steps to help you verify your progress.
 3. Structured Format: Write-ups are organized into folders for easy navigation.
